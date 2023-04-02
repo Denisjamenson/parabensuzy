@@ -1,0 +1,49 @@
+
+
+.conteiner{
+    justify-content: center;
+    display: grid;
+    background-image:url("../img/foto\ ela\ gosta.jpeg");
+    background-size:100% 100%;
+    border: 10px;
+    border-width: 5px;
+    border-style: ridge;
+    Border-color: #57aa3e;
+}
+
+.votação{
+    display:grid;
+    color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    width:400px;
+    height:400px;
+}
+
+#fotovotação{
+    display: flex;
+    width: 265px;
+    height: 150px;
+    border-width: 5px;
+    border-style: ridge;
+    Border-color: #57aa3e;
+}
+
+.nanight{
+    display:grid;
+    color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    width:255px;
+    height:400px;
+
+}
+
+#fotonanight{
+    display: flex;
+    width: 200px;
+    height: 250px;
+    border-width: 5px;
+    border-style: ridge;
+    Border-color: #57aa3e;
+}
+
+
