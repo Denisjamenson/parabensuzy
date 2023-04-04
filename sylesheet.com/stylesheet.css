@@ -124,11 +124,11 @@
         content: "";
         position: absolute;
         width: 99%;
-        height: 150vh;
+        height: 153vh;
         background-image: url("../img/foto\ ela\ gosta.jpeg");
         background-size: 100% 120%;
         filter: grayscale(100%);
-        opacity: 0.9;
+        opacity: 1;
         z-index: -1;
       }
     
@@ -137,8 +137,8 @@
       }
     
     .votação{
-        color:rgb(5, 8, 4);
-        font-size: 1.3em;
+        color:rgb(245, 15, 7);
+        font-size: 1.1em;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         justify-content: center;
         display: grid;   
@@ -150,15 +150,15 @@
         justify-content: center;
         display: flex;
         width:200px;
-        height: 100px;
+        height: 90px;
         border-width: 5px;
         border-style: ridge;
         Border-color: #57aa3e;
     }  
     
     .veropeso{
-        color:black;
-        font-size: 0.9em;
+        color:rgb(245, 15, 7);
+        font-size: 1.1em;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         justify-content: center;
         display: grid;   
@@ -177,8 +177,8 @@
     
     .familia{
         display: flex;   
-        color:black;
-        font-size: 1em;
+        color:rgb(245, 15, 7);
+        font-size: 1.1em;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         justify-content: center;  
     }
